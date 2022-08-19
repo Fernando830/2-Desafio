@@ -1,0 +1,92 @@
+.body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;    
+}
+.header{
+    height: 10em;
+    padding: 5em;
+    font-size: 3em;
+    background-image: url(../imgs/logo_1.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center;
+    border-top: 10px solid black;
+    border-left: 10px solid black ;
+    border-right:10px solid black ;
+}
+.h1{
+    margin: 0;
+    font-weight: 600;
+    font-size: 3em;
+    text-transform: uppercase;
+    text-align: center;
+    color:white;
+}
+.ph1{
+    margin: 0;
+    font-size: 2em;
+    text-transform: uppercase;
+    text-align: center;
+    color:white;
+}
+.who{
+    background-color: #B1D0E0;
+    padding: 5em 0em;
+    border: 10px solid black;
+}
+.services{
+    background-color: #DFF6FF;
+    padding: 5em 0em;
+    border-left: 10px solid black ;
+    border-right:10px solid black ;
+}
+.footer{
+    background-color: #E7F6F2;
+    padding: 2em;
+    border: 10px solid black;
+}
+.title{
+    font-size: 4em;    
+    margin-top: 0px;
+    text-transform: uppercase;
+    text-align: center;       
+}
+.pwho{
+    font-weight: 400; 
+    line-height: 1.7;
+    text-align: center;
+    font-size: 3em;
+}
+.table{    
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    font-size: 3em;
+}    
+.figure{    
+    width: 100%;
+    float: right;
+    margin-right: 200px; 
+    padding-left: 200px   
+}
+.pservices{
+    font-weight: 400; 
+    line-height: 1.7;
+    text-align: center;
+    font-size: 3em;
+}
+.plocation{
+    font-size: 3em;
+    text-align: center; 
+    margin: 1em; 
+}
+.fmapa{
+    text-align: center;
+}
+.mapa{     
+    width: 20%;
+}
+
+
+
